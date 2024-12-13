@@ -44,5 +44,5 @@ git clone https://github.com/anuvindhs/TechWithAnuvindh.git
 
 Notes
 
-![image](../Assets/Notes.png)
+![image](./assets/Notes.png)
 
