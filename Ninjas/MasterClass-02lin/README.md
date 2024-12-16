@@ -1,7 +1,8 @@
 
  **01 Lin Zhang** 
 
-![Photo](assets/Rebecca.png)
+![Photo](assets/Rebecca.png){:height="200px" width="200px"}
+
 ###  Work History
 
 ### NEC New Zealand  
