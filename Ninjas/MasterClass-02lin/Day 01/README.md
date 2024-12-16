@@ -18,3 +18,8 @@ ssh -T git@github.com
 ## step2:Step 2: Clone a File from a Remote Repository to Local
 git clone https://github.com/anuvindhs/TechWithAnuvindh.git
 
+
+| Day   | Date       | Hours | Time Period  | Topic              |
+|-------|------------|-------|--------------|--------------------|
+| Day 1 | 2024-12-13 | 1.5   | 19:30 - 21:00 | SSH and Git Basics |
+
