@@ -1,8 +1,8 @@
 
  **01 Lin Zhang** 
 
-<img src="./Assets/Rebecca.png" width="100"> 
-## Work History
+![Photo](assets/Rebecca.jpg)
+###  Work History
 
 ### NEC New Zealand  
 **Service Desk Analyst**  
