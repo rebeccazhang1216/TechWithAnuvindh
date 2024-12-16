@@ -1,7 +1,7 @@
 
  **01 Lin Zhang** 
 
-![Photo](assets/Rebecca.png){:height="200px" width="200px"}
+![Photo](assets/Rebecca.png){:height="100px" width="100px"}
 
 ###  Work History
 
