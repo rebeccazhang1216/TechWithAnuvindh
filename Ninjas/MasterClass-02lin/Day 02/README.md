@@ -8,4 +8,3 @@ git commit -m "Added Day x notes"
 git push 
 
 
-
