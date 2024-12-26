@@ -5,7 +5,7 @@ git add .
 
 git commit -m "Added Day x notes"
 
-git push 
+git push
 
 
 | Day   | Date       | Hours | Time Period  | Topic                      |
