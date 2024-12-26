@@ -1,13 +1,10 @@
-# Day 02 Notes
+# Day 03 Notes
 
 
-git add .
-
-git commit -m "Added Day x notes"
-
-git push 
+create a VM instance in AWS 
 
 
-| Day   | Date       | Hours | Time Period  | Topic                      |
-|-------|------------|-------|--------------|----------------------------|
-| Day 2 | 2024-12-14 | 2     | 19:30 - 21:30 | Markdown and Git add, push |
+
+
+
+

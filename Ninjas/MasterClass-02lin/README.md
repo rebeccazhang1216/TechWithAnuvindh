@@ -17,9 +17,9 @@
 ### Skill Set
 
 - **Technical Support**
-- Expertise in troubleshooting hardware, software, and network issues.  
+  - Expertise in troubleshooting hardware, software, and network issues.  
   - Proficient in providing remote and on-site IT support.  
   - Knowledge of service desk management tools and ticketing systems.
- - **Operating Systems**  
+- **Operating Systems**  
    - Windows (10/11), Linux, and macOS administration.  
    - Installation, configuration, and maintenance of various OS environments.
