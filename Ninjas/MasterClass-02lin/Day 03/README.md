@@ -1,5 +1,5 @@
 # Day 03 Notes
- <img src="Ninjas/MasterClass-02lin/Day 03/assets/14.png" height="100px" width="100px" />
+ <img src="assets/14.png" height="100px" width="100px" />
 
 ## 1. create a VM instance in AWS 
 
