@@ -1,5 +1,5 @@
 # Day 03 Notes
- <img src="assets/14.png" height="700px" width="1000px" />
+ <img src="assets/14.png" height="350px" width="500px" />
 
 ## 1. create a VM instance in AWS 
 
