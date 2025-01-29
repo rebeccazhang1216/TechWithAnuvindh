@@ -1,3 +1,6 @@
+
+# AWS Services Overview
+## EC2
 | Section                | Content |
 |------------------------|---------|
 | **Introduction**       | Amazon EC2 provides scalable, on-demand compute capacity in the AWS Cloud. |
@@ -13,8 +16,6 @@
 | **Pricing Overview**   | Based on instance type, region, and usage hours. |
 | **Case Studies**       | A retail company improved uptime by 99.99% with EC2 Auto Scaling. |
 | **Conclusion**         | EC2 provides reliable and scalable compute power for various workloads. |
-# AWS Services Overview
-
 ## Security Groups and Elastic IP Address
 
 | Section                       | Content |
@@ -268,17 +269,4 @@ Feel free to continue for the other services or adjust as needed!
 | **Case Study**                 | A company adopted Linux for their servers, reducing costs while benefiting from the flexibility and security of open-source software. |
 | **Conclusion**                 | Open-source software provides powerful, cost-effective solutions but may require more management and technical expertise. |
 
-## S3 Bucket Security
 
-| Section                       | Content |
-|-------------------------------|---------|
-| **Introduction**               | S3 Bucket Security involves best practices to secure your S3 storage by controlling access and monitoring activity. |
-| **What is S3 Bucket Security?**| Ensures that only authorized users and applications can access your S3 buckets and their contents. |
-| **Key Features**               | Bucket policies, IAM roles, encryption, logging, versioning. |
-| **How It Works**               | Use policies to restrict access → Enable encryption and logging → Use IAM roles for secure access control. |
-| **Benefits**                   | Data protection, access control, auditability, compliance. |
-| **Best Practices**             | Enable encryption, use IAM roles and policies, enforce MFA. |
-| **Challenges & Solutions**     | Publicly accessible buckets → Use bucket policies to restrict access. |
-| **Pricing Overview**           | No additional charge for security features; you pay for storage and data transfer. |
-| **Case Studies**               | A healthcare organization used S3 encryption to protect sensitive data and comply with privacy regulations. |
-| **Conclusion**                 | Proper S3 Bucket Security practices ensure the protection and privacy of data stored in S3. |
