@@ -1,5 +1,4 @@
 
-# AWS Services Overview
 ## EC2
 | Section                | Content |
 |------------------------|---------|
