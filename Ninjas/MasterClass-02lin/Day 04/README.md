@@ -126,7 +126,7 @@
 
 ---
 
-Feel free to continue for the other services or adjust as needed!
+
 ## CloudFront
 
 | Section                       | Content |
