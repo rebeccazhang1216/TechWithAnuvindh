@@ -1,4 +1,4 @@
-# Day 03 Notes
+# Day 03 Notes  EC2 instance host ubantu default page and replce the homepage 
  <img src="assets/14.png" height="350px" width="500px" />
 
 ### 1. create a VM instance in AWS 
